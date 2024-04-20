@@ -17,3 +17,7 @@ Algorithm Implementation:
 Fault Tolerance:
  Implemented fault tolerance mechanisms to handle failures of mappers or reducers, ensuring tasks were reassigned to ensure completion.
  
+Uses:
+ Online platforms like Netflix, Amazon, and Spotify employ MapReduce to analyze user behavior and preferences.
+ Search engines like Google, Bing, and Yahoo use MapReduce to process and analyze vast amounts of web data for indexing, ranking, and relevance scoring.
+ MapReduce is widely used in industries dealing with massive volumes of data, such as e-commerce, social media, and financial services.
